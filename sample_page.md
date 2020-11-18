@@ -6,23 +6,37 @@
 
 Biomass is, by definition, organic matter, especially plant matter, and it can be converted to fuel.
 
-<img src="images/biomass.jpg?raw=true"/>
+<img src="images/biomass.JPG?raw=true"/>
 
-First generation: edible crops such as sorghum and corn 
-Second generation: non-edible crops such as wood chips, switchgrass, Miscanthus, organic waste, and food crop waste (e.g., corn stover)
+_First generation_: edible crops such as sorghum and corn
 
+_Second generation_: non-edible crops such as wood chips, switchgrass, Miscanthus, organic waste, and food crop waste (e.g., corn stover)
+
+_Third generation_: algae, a low cost, high energy, and entirely renewable source of energy
+
+Biomass is the largest single source of renewable energy and, was found to have the potential to replace 30% of the current petroleum demand (Goss, Thesis, and Rials)
 
 ### 1. Data Collection
 
 A major participant in enhancing research of biomass-to-biofuel supply chain logistics is Idaho National Laboratory (INL). INL has taken major strides in investigating the economics and sustainability of moving biomass from harvest to the throat of the biomass conversion process; these advances have been made possible, in part, through development of a full-scale, integrated feedstock preprocessing system called the Process Demonstration Unit (PDU). Through utilization of the PDU, extensive experimentation and data collection has been made possible which may provide insight on how to adapt control parameters to account for variability. Figure 1 shows a block flow diagram of the biochemical conversion process, which is the process the biomass used in PDU experiments undergoes. The data used to further understand how preprocessing variables affect throughput was taken from the preprocessing operations of Stage I and II grinding blocks.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/preprocessing.png?raw=true"/>
 
 ### 2. Principal Component Analysis (PCA)
 
 Principal Component Analysis is a dimension-reducing technique used to linearly transform a large set of data into a smaller number of uncorrelated components, called “principal components”, which represent most of the information in the original variables and allows for an enhanced understanding of the data.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+This method of analysis is useful to uncover patterns and can reduce a large amount of data into a subset of significant relationships.
+
+<img src="images/pca1.png?raw=true"/>
+
+<img src="images/pca2.png?raw=true"/>
+
+PCA essentially works in steps toward solving an eigenvalue/eigenvector problem to reduce the dimensions of a dataset. 
+
+<img src="images/PCAmethod1.JPG?raw=true"/>
+
 
 ### 3. Using PCA to Understand Biomass Preprocessing Variables
 
