@@ -5,7 +5,7 @@
 ### Research Experience 
 
 [Advanced Statistical Machine Learning](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/pca2.png?raw=true"/>
 
 ---
 [Data Engineering](/pdf/sample_presentation.pdf)
