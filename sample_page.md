@@ -1,6 +1,16 @@
-## Advanced Statistical Analysis
+## Advanced Statistical Analysis for Bioenergy Supply Chains
 
-**Project description:** The data obtained from pre-processing two types of biomass, with varying moisture content, are used to develop conclusions on how variables such as throughput, grinding energy, and logistics costs are related to the aforementioned factors, as well as to each other. Test data from Idaho National Laboratory was obtained and Principal Component Analysis (PCA) was used to investigate the correlation between selected factors and the overall performance of the system. .
+**Project description:** The data obtained from pre-processing two types of biomass, with varying moisture content, are used to develop conclusions on how variables such as throughput, grinding energy, and logistics costs are related to the aforementioned factors, as well as to each other. Test data from Idaho National Laboratory was obtained and Principal Component Analysis (PCA) was used to investigate the correlation between selected factors and the overall performance of the system.
+
+### 1. What is Biomass?
+
+Biomass is, by definition, organic matter, especially plant matter, and it can be converted to fuel.
+
+<img src="images/biomass.jpg?raw=true"/>
+
+First generation: edible crops such as sorghum and corn 
+Second generation: non-edible crops such as wood chips, switchgrass, Miscanthus, organic waste, and food crop waste (e.g., corn stover)
+
 
 ### 1. Data Collection
 
