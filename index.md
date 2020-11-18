@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Research Experience 
 
-[Project 1 Title](/sample_page)
+[Advanced Statistical Machine Learning](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Data Engineering](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Space Sensor Instrumentation](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Technical Writing Samples
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Exploring Biomass Quality within the Biomass-to-Biofuel Supply Chain Using Principal Component Analysis](http://example.com/)
+- [The Impact of RFID Technology on Supply Chain Management: A Literature Review](http://example.com/)
+- [Improving a CTO System Using Value Stream Mapping](http://example.com/)
+- [Integrating Lean and Green Principles to Reduce Material Waste in Construction and Demolition](http://example.com/)
+- [High Performance Thermal Interface Material for Energy Storage Devices](http://example.com/)
 
 ---
 
