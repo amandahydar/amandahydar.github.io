@@ -1,31 +1,27 @@
-## This can be your internal website page / project page
+## Advanced Statistical Analysis
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** The data obtained from pre-processing two types of biomass, with varying moisture content, are used to develop conclusions on how variables such as throughput, grinding energy, and logistics costs are related to the aforementioned factors, as well as to each other. Test data from Idaho National Laboratory was obtained and Principal Component Analysis (PCA) was used to investigate the correlation between selected factors and the overall performance of the system. .
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### 1. Data Collection
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
+A major participant in enhancing research of biomass-to-biofuel supply chain logistics is Idaho National Laboratory (INL). INL has taken major strides in investigating the economics and sustainability of moving biomass from harvest to the throat of the biomass conversion process; these advances have been made possible, in part, through development of a full-scale, integrated feedstock preprocessing system called the Process Demonstration Unit (PDU). Through utilization of the PDU, extensive experimentation and data collection has been made possible which may provide insight on how to adapt control parameters to account for variability. Figure 1 shows a block flow diagram of the biochemical conversion process, which is the process the biomass used in PDU experiments undergoes. The data used to further understand how preprocessing variables affect throughput was taken from the preprocessing operations of Stage I and II grinding blocks.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
+### 2. Principal Component Analysis (PCA)
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+Principal Component Analysis is a dimension-reducing technique used to linearly transform a large set of data into a smaller number of uncorrelated components, called “principal components”, which represent most of the information in the original variables and allows for an enhanced understanding of the data.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 3. Using PCA to Understand Biomass Preprocessing Variables
+
+PCA essentially works in steps toward solving an eigenvalue/eigenvector problem to reduce the dimensions of a dataset. Beginning with a calculation of the first principal component, a linear combination of x1,x2, …., xp ,  such that the variance of y1 is maximized. . In a similar fashion, moving to the next set of variables, y2 will be calculated and account for the second largest percentage of variance between all components. Further, the PCA will find the optimal weight vector for the first component and its' associated variance; this calculation will be performed for each principal component found and will be maximized, subject to the constraint that it must be uncorrelated with the previous components. From these variable weight vectors and associated variances for each principal component, an indication of how each variable contributes to the variance is seen. Reducing the dataset in this way can considerably simplify data analysis and further exploration of the implications found can provide valuable insight.
+
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+### 4. Conclusions
+
+Results indicate that type of biomass and percentage of moisture strongly influence the throughput, energy consumption, preprocessing cost, and logistics cost.
+PCA results show segregation when testing corn stover as opposed to switchgrass and varying the amount of moisture. The graphical results indicate that decreasing costs and energy, while increasing throughput, may be achieved when switchgrass is used rather than corn stover. The PCA results for moisture content show that lower moisture content between 0-15% increase throughput and decrease logistics cost, energy consumption, and preprocessing cost; these correlations can be seen in the biplots shown in Figures 11 and 12. To further quantify the impact of these factors, a cost comparison of using these recommended settings versus the opposition may be analyzed; using a moisture content between 0-15% results in preprocessing cost reductions of $2.54 per dry ton, which is a 15.7% preprocessing cost reduction from using a higher moisture content. Data from type of biomass used may also be quantified as an 18% preprocessing cost reduction when using switchgrass as opposed to corn stover. It is therefore recommended for improved operations, to use switchgrass with lower moisture content (between 0-15%), which returns the highest possible throughput and lower logistics and preprocessing costs
+
