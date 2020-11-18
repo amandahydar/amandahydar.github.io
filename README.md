@@ -4,8 +4,6 @@
 
 Based on a Minimal Jekyll theme for GitHub Pages.
 
-<img src="images/demo.gif?raw=true"/>
-
 # Header 1
 ## Header 2
 ### Header 3
