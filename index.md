@@ -5,16 +5,10 @@
 ### Research Experience 
 
 [Advanced Statistical Machine Learning](/PCA.md)
-<img src="images/pca_project.JPG?raw=true"/>
-
 ---
 [Data Engineering](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 [Space Sensor Instrumentation](http://example.com/)
-<img src="images/trice-2.jpg?raw=true"/>
-
 ---
 
 ### Technical Writing Samples
