@@ -4,8 +4,8 @@
 
 ### Research Experience 
 
-[Advanced Statistical Machine Learning](/Thesis Defense.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Advanced Statistical Machine Learning](/PCA.md)
+<img src="images/pca_project_thumbnail.JPG?raw=true"/>
 
 ---
 [Data Engineering](/pdf/sample_presentation.pdf)
