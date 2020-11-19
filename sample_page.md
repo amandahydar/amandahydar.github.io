@@ -4,7 +4,7 @@
 
 ### 1. What is Biomass?
 
-Biomass is, by definition, organic matter, especially plant matter, and it can be converted to fuel.
+Biomass is, organic matter, especially plant matter, and it can be converted to fuel.
 
 <img src="images/biomass.JPG?raw=true"/>
 
@@ -12,9 +12,7 @@ _First generation_: edible crops such as sorghum and corn
 
 _Second generation_: non-edible crops such as wood chips, switchgrass, Miscanthus, organic waste, and food crop waste (e.g., corn stover)
 
-_Third generation_: algae, a low cost, high energy, and entirely renewable source of energy
-
-Biomass is the largest single source of renewable energy and, was found to have the potential to replace 30% of the current petroleum demand (Goss, Thesis, and Rials)
+Biomass is the largest single source of renewable energy in the United States and was found to have the potential to replace 30% of the current petroleum demand (Goss, Thesis, and Rials). Used to produce fuels such as charcoal, ethanol, and renewable diesel, biomass is a versatile renewable source. 
 
 ### 1. Data Collection
 
@@ -42,7 +40,25 @@ PCA essentially works in steps toward solving an eigenvalue/eigenvector problem 
 
 PCA essentially works in steps toward solving an eigenvalue/eigenvector problem to reduce the dimensions of a dataset. Beginning with a calculation of the first principal component, a linear combination of x1,x2, …., xp ,  such that the variance of y1 is maximized. . In a similar fashion, moving to the next set of variables, y2 will be calculated and account for the second largest percentage of variance between all components. Further, the PCA will find the optimal weight vector for the first component and its' associated variance; this calculation will be performed for each principal component found and will be maximized, subject to the constraint that it must be uncorrelated with the previous components. From these variable weight vectors and associated variances for each principal component, an indication of how each variable contributes to the variance is seen. Reducing the dataset in this way can considerably simplify data analysis and further exploration of the implications found can provide valuable insight.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+_Step 1: Calculate Eigenvectors_
+
+<img src="images/pcastep1.png?raw=true"/>
+
+_Step 2: Evaluate Scree and Score Plot _
+
+<img src="images/pcastep2.JPG?raw=true"/>
+
+_Step 3: Generate Biplots _
+
+<img src="images/pcastep3.png?raw=true"/>
+
+<img src="images/pcastep4.png?raw=true"/>
+
+
+
+
+
+
 
 ### 4. Conclusions
 
