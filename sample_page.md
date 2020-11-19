@@ -44,21 +44,15 @@ _Step 1: Calculate Eigenvectors_
 
 <img src="images/pcastep1.png?raw=true"/>
 
-_Step 2: Evaluate Scree and Score Plot _
+_Step 2: Evaluate Scree and Score Plot_
 
 <img src="images/pcastep2.JPG?raw=true"/>
 
-_Step 3: Generate Biplots _
+_Step 3: Generate Biplots_
 
 <img src="images/pcastep3.png?raw=true"/>
 
 <img src="images/pcastep4.png?raw=true"/>
-
-
-
-
-
-
 
 ### 4. Conclusions
 
