@@ -4,7 +4,7 @@
 
 ### Research Experience 
 
-[Advanced Statistical Machine Learning](/sample_page)
+[Advanced Statistical Machine Learning](/Thesis Defense.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 [Space Sensor Instrumentation](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/trice-2.jpg?raw=true"/>
 
 ---
 
