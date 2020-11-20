@@ -21,9 +21,11 @@
 
 - [Exploring Biomass Quality within the Biomass-to-Biofuel Supply Chain Using Principal Component Analysis](/pdf/Thesis.pdf)
 - [The Impact of RFID Technology on Supply Chain Management: A Literature Review](/pdf/RFID.pdf)
-- [Improving a CTO System Using Value Stream Mapping](https://drive.google.com/file/d/10Hlw0v_2YhNmHhTGnmMMLhQ64776xm39/view?usp=sharing)
-- [Integrating Lean and Green Principles to Reduce Material Waste in Construction and Demolition](http://example.com/)
-- [High Performance Thermal Interface Material for Energy Storage Devices](http://example.com/)
+- [Improving a CTO System Using Value Stream Mapping](/pdf/VSM.pdf)
+- [Integrating Lean and Green Principles to Reduce Material Waste in Construction and Demolition](/pdf/Reducing_construction_waste.pdf)
+- [High Performance Thermal Interface Material for Energy Storage Devices](/pdf/TIM.pdf)
+- [Simulation and Optimization of Chick-fil-A Restaurant](/pdf/Simulation.pdf)
+- [Six Sigma in the Aerospace Industry: A Case Study Review](/pdf/SixSigma_aerospace.pdf)
 
 ---
 
