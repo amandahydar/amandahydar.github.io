@@ -4,13 +4,17 @@
 
 ### Research Experience 
 
----
-
 [Advanced Statistical Machine Learning](/PCA.md)
+
 ---
 [Data Engineering](/pdf/sample_presentation.pdf)
+
+
 ---
 [Space Sensor Instrumentation](http://example.com/)
+
+
+
 ---
 
 ### Technical Writing Samples
