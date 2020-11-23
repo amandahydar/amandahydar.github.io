@@ -11,7 +11,7 @@
 
 
 ---
-[Space Sensor Instrumentation](/pdf/Space_Sensor_Instrumentation.pdf)
+[Space Sensor Instrumentation](/pdf/SpaceSensors.pdf)
 
 
 
