@@ -6,14 +6,17 @@
 
 [Advanced Statistical Machine Learning](/PCA.md)
 
+<img src="images/ml1.PNG?raw=true"/>
+
 ---
 [Data Engineering](/pdf/Database.pdf)
 
+<img src="images/software1.PNG?raw=true"/>
 
 ---
 [Space Sensor Instrumentation](/pdf/SpaceSensors.pdf)
 
-
+<img src="images/ApisIIimage.PNG?raw=true"/>
 
 ---
 
